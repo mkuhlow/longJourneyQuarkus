@@ -25,8 +25,4 @@ public class GreetingResource {
 		return "Hello RESTEasy";
 	}
 
-
-	public String hello2() {
-		return "Hello RESTEasy";
-	}
 }
